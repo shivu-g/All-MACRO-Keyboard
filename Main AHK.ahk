@@ -37,21 +37,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;SetKeyDelay, 0 !!! CHECK THIS
 
-^!1::
-Send, aayushivam512@gmail.com
-return
-
-^!2::
-Send, shivamgupta19@cse.iiitp.ac.in
-return
-
-^!3::
-Send, business.electroacoustic00@gmail.com
-return
-
-^!4::
-Send, indianabong69@gmail.com
-return
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx PERSONAL
 
 ;; ================================ ;;
 ;; ================================ ;;
