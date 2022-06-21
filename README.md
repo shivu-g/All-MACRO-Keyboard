@@ -7,6 +7,6 @@ My Final Design: (until i received the Loupedeck)
 
 ![2342](https://user-images.githubusercontent.com/54065666/172117645-7ccfccbb-0c8f-4e8b-862a-8905f03d8bfe.jpg)
 
-They shipped this from Netherlands & personally were very happy to see I made something like this.
+Finally got my Loupedeck CT
 
 ![Loupedeck CT](https://user-images.githubusercontent.com/54065666/172117338-d0f38a70-1f40-4be7-8acc-dbc3775b78dd.jpg)
